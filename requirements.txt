@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-streamlit
-=======
 streamlit
 numpy
->>>>>>> f22ca60 (Initial commit: Audio Loudness Analyzer using RMS)
